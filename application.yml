@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: config-default
+
 eureka:
   instance:
     prefer-ip-address: true  # This tells Eureka to use the IP address of the instance rather than the hostname when registering.
